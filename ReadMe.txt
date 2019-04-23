@@ -1,0 +1,1 @@
+A bunch of maven projects to understand concepts of hibernate and JPA with using spring boot.
