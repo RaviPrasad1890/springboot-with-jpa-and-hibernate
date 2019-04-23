@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: jpa-hibernate-indepth-onetoone
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: ravip
+Implementation-Vendor-Id: com.ravi.jpa.hibernate.onetoone
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/jpa-hibernate-indepth-onetoone
+Created-By: Maven Integration for Eclipse
+
